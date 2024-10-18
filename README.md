@@ -10,7 +10,6 @@ This platform supports modern functionalities like real-time availability, prope
 
 - **User Authentication**: Secure login and registration system for both hosts and users.
 - **Property Listings**: Hosts can list properties, including photos, descriptions, and pricing.
-- **Booking System**: Users can search for properties, check availability, and make reservations.
 - **Review System**: Users can leave feedback on stays, helping others make informed choices.
 - **Personalized Dashboards**: Both hosts and users have access to their own dashboards for managing bookings, listings, and reviews.
 
